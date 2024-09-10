@@ -1,6 +1,6 @@
-# Auto Bundle Signer
+# Android Bundle Signer
 
-Based on [cafebazaar/bundle-signer](https://github.com/cafebazaar/bundle-signer), Auto Bundle Signer is a command-line tool to generate signed binary file of your Android App Bundle:
+Based on [cafebazaar/bundle-signer](https://github.com/cafebazaar/bundle-signer), **Android Bundle Signer** is a powerful command-line tool designed to securely generate signed binary files from your Android App Bundle (AAB) directly on your PC.
 
 ## Usage
 
